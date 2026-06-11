@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Experiment</title>
+  </head>
+  
+  <body class="ti">
+    <header class="lo">
+      <h1 class="pl">Title</h1>
+      <div>
+        <input type="search" placeholder="Search..." class="pt">
+      </div>
+      <nav class="tp">
+        <ul class="ty">
+          <li class="ty"><a href="#" class="ii">Details</a></li>
+          <li class="ty"><a href="#" class="ii">Information</a></li>
+          <li class="ty"><a href="#" class="ii">About</a></li>
+          <li class="ty"><a href="#" class="ii">Practice</a></li>
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>
