@@ -6,7 +6,6 @@
 }
 body{
     background-color:aliceblue;
-    border: 1px solid;
     padding: 10px;
     min-block-size: 100vh;
     display: flex;
