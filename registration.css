@@ -33,6 +33,7 @@ span{
 .text{
     display: inline;
     font-weight: light;
+    gap: 1rem;
 }
 .rr{
     inline-size: 93%;
